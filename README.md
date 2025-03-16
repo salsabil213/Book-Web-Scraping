@@ -25,6 +25,8 @@ This repository contains a Jupyter Notebook that demonstrates basic web scraping
 > Scraping data from a live website to extract useful insights — for example, product listings, article titles, job postings, or any structured data on the web.
 
 You can modify the code to fit any use case or data source of your choice.
+
+## 🚀 Getting Started
 1. *Clone this repository* 🖥
    bash
    git clone https://github.com/your-username/WebScraping-Project.git
